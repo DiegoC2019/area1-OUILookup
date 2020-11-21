@@ -58,8 +58,7 @@ def dirIP(b):
     			dirMAC(mac)
     			break
     		
-
-    			exit(1)
+exit(1)
 
 
 #Código Principal:
